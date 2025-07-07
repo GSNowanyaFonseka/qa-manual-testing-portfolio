@@ -3,16 +3,6 @@
 Welcome to my QA Manual Testing Portfolio!  
 This repository contains my hands-on practice work as a QA Engineer. It includes test cases, bug reports, test plans, and project documentation for sample applications across different domains.
 
----
-
-## 📁 Repository Structure
-qa-manual-testing-portfolio/
-│
-├── test-cases/ # Manual test case documents
-├── bug-reports/ # Sample bug reports with severity/priority
-├── test-plan/ # Test plans and strategy docs
-└── tools-simulations/ # Jira/Trello board screenshots, reports
-
 ## 📌 Contents
 
 ### ✅ Test Cases
